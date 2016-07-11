@@ -1,6 +1,6 @@
-	########################################
-	#     Programme Client/serveur UDP     #
-	########################################
+
+##Programme Client/serveur UDP     #
+
 
 
 #Plusieurs clients peuvent se connecter au serveur (utilisation du fork)

@@ -2,6 +2,8 @@
 ##Programme Client/serveur UDP     #
 
 
+Programme simulant un client et un serveur établissant une connexion TCP (code C)
+
 
 Plusieurs clients peuvent se connecter au serveur (utilisation du fork)
 
